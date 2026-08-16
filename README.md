@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parthaksingh/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/parthaksingh/leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/parthaksingh/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/parthaksingh/leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/parthaksingh/leetcode/tree/master/0389-find-the-difference) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/parthaksingh/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Divide and Conquer
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/parthaksingh/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/parthaksingh/leetcode/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/parthaksingh/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/parthaksingh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/parthaksingh/leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/parthaksingh/leetcode/tree/master/0389-find-the-difference) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
