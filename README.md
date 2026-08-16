@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/parthaksingh/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/parthaksingh/leetcode/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/parthaksingh/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/parthaksingh/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Divide and Conquer
 |  |
