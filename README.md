@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/parthaksingh/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/parthaksingh/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/parthaksingh/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parthaksingh/leetcode/tree/master/0342-power-of-four) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/parthaksingh/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/parthaksingh/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/parthaksingh/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/parthaksingh/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/parthaksingh/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/parthaksingh/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/parthaksingh/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/parthaksingh/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/parthaksingh/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parthaksingh/leetcode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
