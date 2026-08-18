@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/parthaksingh/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/parthaksingh/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parthaksingh/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/parthaksingh/leetcode/tree/master/0509-fibonacci-number) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/parthaksingh/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Two Pointers
 |  |
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/parthaksingh/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/parthaksingh/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parthaksingh/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/parthaksingh/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthaksingh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/parthaksingh/leetcode/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/parthaksingh/leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/parthaksingh/leetcode/tree/master/0292-nim-game) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/parthaksingh/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
