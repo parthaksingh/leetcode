@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/parthaksingh/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/parthaksingh/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/parthaksingh/leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/parthaksingh/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/parthaksingh/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/parthaksingh/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthaksingh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/parthaksingh/leetcode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
