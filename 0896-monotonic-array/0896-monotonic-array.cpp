@@ -5,10 +5,10 @@ public:
         bool decreasing = true;
 
         for(int i = 0; i<nums.size()-1; i++){
-            if(nums[i] > nums[i+1]){
+            if(nums[i] < nums[i+1]){
                 increasing=false;
             }
-            if(nums[i] < nums[i+1]){
+            if(nums[i] > nums[i+1]){
                 decreasing=false;
             }
         }
