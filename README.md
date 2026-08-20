@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parthaksingh/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/parthaksingh/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/parthaksingh/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/parthaksingh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parthaksingh/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/parthaksingh/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/parthaksingh/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/parthaksingh/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/parthaksingh/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/parthaksingh/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/parthaksingh/leetcode/tree/master/0326-power-of-three) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthaksingh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/parthaksingh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parthaksingh/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/parthaksingh/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/parthaksingh/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/parthaksingh/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/parthaksingh/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/parthaksingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/parthaksingh/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
