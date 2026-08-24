@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/parthaksingh/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/parthaksingh/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/parthaksingh/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthaksingh/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthaksingh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/parthaksingh/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parthaksingh/leetcode/tree/master/0217-contains-duplicate) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthaksingh/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/parthaksingh/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/parthaksingh/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/parthaksingh/leetcode/tree/master/0191-number-of-1-bits) |
@@ -209,4 +211,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/parthaksingh/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthaksingh/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthaksingh/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthaksingh/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
