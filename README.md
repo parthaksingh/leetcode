@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/parthaksingh/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/parthaksingh/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/parthaksingh/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/parthaksingh/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/parthaksingh/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/parthaksingh/leetcode/tree/master/0292-nim-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/parthaksingh/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/parthaksingh/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/parthaksingh/leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/parthaksingh/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/parthaksingh/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/parthaksingh/leetcode/tree/master/0290-word-pattern) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parthaksingh/leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/parthaksingh/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/parthaksingh/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/parthaksingh/leetcode/tree/master/0231-power-of-two) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parthaksingh/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/parthaksingh/leetcode/tree/master/0415-add-strings) |
 ## Prefix Sum
 |  |
