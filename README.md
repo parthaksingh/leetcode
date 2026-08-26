@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/parthaksingh/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/parthaksingh/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/parthaksingh/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parthaksingh/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/parthaksingh/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Divide and Conquer
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/parthaksingh/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parthaksingh/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Tree
 |  |
 | ------- |
