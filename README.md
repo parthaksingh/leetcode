@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/parthaksingh/leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/parthaksingh/leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthaksingh/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1386-cinema-seat-allocation](https://github.com/parthaksingh/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/parthaksingh/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/parthaksingh/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parthaksingh/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/parthaksingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/parthaksingh/leetcode/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/parthaksingh/leetcode/tree/master/0705-design-hashset) |
+| [1386-cinema-seat-allocation](https://github.com/parthaksingh/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/parthaksingh/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parthaksingh/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/parthaksingh/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/parthaksingh/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/parthaksingh/leetcode/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/parthaksingh/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/parthaksingh/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/parthaksingh/leetcode/tree/master/0561-array-partition) |
+| [1386-cinema-seat-allocation](https://github.com/parthaksingh/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Counting Sort
 |  |
 | ------- |
