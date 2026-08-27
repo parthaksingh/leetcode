@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/parthaksingh/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/parthaksingh/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parthaksingh/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthaksingh/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/parthaksingh/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parthaksingh/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/parthaksingh/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthaksingh/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/parthaksingh/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/parthaksingh/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/parthaksingh/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthaksingh/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/parthaksingh/leetcode/tree/master/0561-array-partition) |
 | [1386-cinema-seat-allocation](https://github.com/parthaksingh/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthaksingh/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthaksingh/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/parthaksingh/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
