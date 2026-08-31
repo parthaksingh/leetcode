@@ -3,24 +3,22 @@ public:
     int numOfSubarrays(vector<int>& arr, int k, int threshold) {
         int n = arr.size();
         int sum1 = k*threshold;
-        int sum = 0, count = 0;
+        int sum = 0, count = 0, r = 0, l = 0;
         
-        for(int i = 0; i < k; i++){
-            sum+=arr[i];
-        }
-        if(sum>=sum1){
-            count++;
-        }
+        while(r<n){
+            sum += arr[r];
 
-        for(int i = k; i < n; i++){
-            sum+=arr[i];
-            sum-=arr[i - k];
+            if(r - l + 1 == k){
+                if(sum>=sum1){
+                    count++;
+                }
 
-            if(sum>=sum1){
-                count++;
+                sum -=arr[l];
+                l++;
             }
+            
+            r++;
         }
-
         return count;
     }
 };
