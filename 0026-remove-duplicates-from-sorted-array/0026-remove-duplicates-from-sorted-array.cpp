@@ -8,6 +8,7 @@ public:
                 j++;
             }
         }
+        nums.resize(j);
         return j;
     }
 };
