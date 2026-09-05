@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthaksingh/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/parthaksingh/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parthaksingh/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/parthaksingh/leetcode/tree/master/0169-majority-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/parthaksingh/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/parthaksingh/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/parthaksingh/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/parthaksingh/leetcode/tree/master/0066-plus-one) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthaksingh/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/parthaksingh/leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/parthaksingh/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/parthaksingh/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/parthaksingh/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/parthaksingh/leetcode/tree/master/0058-length-of-last-word) |
