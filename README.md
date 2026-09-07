@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/parthaksingh/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/parthaksingh/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/parthaksingh/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/parthaksingh/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/parthaksingh/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/parthaksingh/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/parthaksingh/leetcode/tree/master/0292-nim-game) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/parthaksingh/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/parthaksingh/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/parthaksingh/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/parthaksingh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/parthaksingh/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parthaksingh/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthaksingh/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/parthaksingh/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
