@@ -4,11 +4,19 @@ public:
     long long countCommas(long long n) {
         ll result = 0;
         ll start = 1000;
-        //ll commas = 1;
+        ll commas = 1;
 
         while(start <= n){
-           result += (n - start) + 1;
-           start *= 1000; 
+           ll lastno = start*1000 - 1;
+           if(lastno > n)
+            lastno = n;
+
+            ll countofno = lastno - start + 1;
+            result += countofno*commas;
+
+            start *= 1000;
+            commas++;
+
         }
         return result;
 
