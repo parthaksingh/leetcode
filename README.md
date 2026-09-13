@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/parthaksingh/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/parthaksingh/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/parthaksingh/leetcode/tree/master/0705-design-hashset) |
+| [0835-image-overlap](https://github.com/parthaksingh/leetcode/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/parthaksingh/leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/parthaksingh/leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthaksingh/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/parthaksingh/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/parthaksingh/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Newton's Method
 |  |
