@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/parthaksingh/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/parthaksingh/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthaksingh/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/parthaksingh/leetcode/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/parthaksingh/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/parthaksingh/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/parthaksingh/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -382,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parthaksingh/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/parthaksingh/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
