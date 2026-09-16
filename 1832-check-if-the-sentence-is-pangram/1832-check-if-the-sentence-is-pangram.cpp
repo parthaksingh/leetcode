@@ -2,15 +2,16 @@ class Solution {
 public:
     bool checkIfPangram(string sentence) {
         vector<int> arr(26, 0);
-
+        int count = 0;
         for(auto &ch : sentence){
             int index = ch - 'a';
-            arr[index]++;
-        }
-        for(int count: arr){
-            if(count == 0){
-                return false;
+            if(arr[index] == 0){
+                arr[index]++;
+                count++;
             }
+        }
+        if(count != 26){
+            return false;
         }
         return true;
     }
