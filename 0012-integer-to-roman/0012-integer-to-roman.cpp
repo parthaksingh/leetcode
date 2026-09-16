@@ -9,10 +9,12 @@ public:
         string ans = "";
 
         for(int i = 0; i < value.size(); i++){
-            while(num >= value[i]){
-                ans += symbol[i];
-                num -= value[i];
+            if(num == 0) break;
+            int time = num/value[i];
+            while(time--){
+                ans+=symbol[i];
             }
+            num = num%value[i];
         }
         return ans;
     }
