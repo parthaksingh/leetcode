@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/parthaksingh/leetcode/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/parthaksingh/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/parthaksingh/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parthaksingh/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/parthaksingh/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3870-count-commas-in-range](https://github.com/parthaksingh/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/parthaksingh/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/parthaksingh/leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/parthaksingh/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/parthaksingh/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parthaksingh/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parthaksingh/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthaksingh/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parthaksingh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/parthaksingh/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parthaksingh/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/parthaksingh/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/parthaksingh/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Design
@@ -398,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/parthaksingh/leetcode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parthaksingh/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
