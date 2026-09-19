@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/parthaksingh/leetcode/tree/master/0836-rectangle-overlap) |
 | [0899-orderly-queue](https://github.com/parthaksingh/leetcode/tree/master/0899-orderly-queue) |
 | [1137-n-th-tribonacci-number](https://github.com/parthaksingh/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/parthaksingh/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/parthaksingh/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/parthaksingh/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/parthaksingh/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/parthaksingh/leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/parthaksingh/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
