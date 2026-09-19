@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/parthaksingh/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/parthaksingh/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/parthaksingh/leetcode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/parthaksingh/leetcode/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/parthaksingh/leetcode/tree/master/0899-orderly-queue) |
 | [0940-distinct-subsequences-ii](https://github.com/parthaksingh/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/parthaksingh/leetcode/tree/master/1002-find-common-characters) |
