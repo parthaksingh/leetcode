@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/parthaksingh/leetcode/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/parthaksingh/leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/parthaksingh/leetcode/tree/master/0941-valid-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/parthaksingh/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthaksingh/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/parthaksingh/leetcode/tree/master/1002-find-common-characters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parthaksingh/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/parthaksingh/leetcode/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/parthaksingh/leetcode/tree/master/0899-orderly-queue) |
 | [0940-distinct-subsequences-ii](https://github.com/parthaksingh/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/parthaksingh/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/parthaksingh/leetcode/tree/master/1002-find-common-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/parthaksingh/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthaksingh/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/parthaksingh/leetcode/tree/master/1544-make-the-string-great) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/parthaksingh/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
