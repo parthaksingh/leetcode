@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/parthaksingh/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/parthaksingh/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/parthaksingh/leetcode/tree/master/0067-add-binary) |
+| [0093-restore-ip-addresses](https://github.com/parthaksingh/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/parthaksingh/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/parthaksingh/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/parthaksingh/leetcode/tree/master/0205-isomorphic-strings) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parthaksingh/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0093-restore-ip-addresses](https://github.com/parthaksingh/leetcode/tree/master/0093-restore-ip-addresses) |
 ## Depth-First Search
 |  |
 | ------- |
