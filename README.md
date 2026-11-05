@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/parthaksingh/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthaksingh/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/parthaksingh/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/parthaksingh/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parthaksingh/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/parthaksingh/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/parthaksingh/leetcode/tree/master/0283-move-zeroes) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parthaksingh/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/parthaksingh/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/parthaksingh/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/parthaksingh/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/parthaksingh/leetcode/tree/master/0191-number-of-1-bits) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/parthaksingh/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/parthaksingh/leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/parthaksingh/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/parthaksingh/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parthaksingh/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/parthaksingh/leetcode/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/parthaksingh/leetcode/tree/master/0705-design-hashset) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/parthaksingh/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/parthaksingh/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/parthaksingh/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/parthaksingh/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/parthaksingh/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parthaksingh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parthaksingh/leetcode/tree/master/0242-valid-anagram) |
@@ -563,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/parthaksingh/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/parthaksingh/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
